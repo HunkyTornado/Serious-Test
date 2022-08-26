@@ -50,6 +50,42 @@ Self-explanatory terms
 - Username changes the Username of the message. (Embed Generator is default)
 - Avatar changes Avatar/pfp of the message.
 - Content is the non-embedded message.
+
 ![a](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Username-Avatar-Content.jpg?raw=true)
 
 > If you ever come across issues regarding Avatar, try sending the image anywhere over Discord and then copying the URL from discord itself.
+
+---
+## Attachments
+
+![A](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Attachments.jpg?raw=true)
+
+Non embedded images/Gifs go here
+
+---
+## Embeds
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Embed_creation.jpg?raw=true)
+
+Clicking on "Add Embed" will allow you to easily create an embed.
+
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Embeds_2.jpg?raw=true)
+### Author
+- Author > Changes the name of Embed
+- Author URL > Append Authors name with a link to their page
+- Author Icon URL > Changes the Authors pfp
+### Body
+- Title > Heading for the Embed
+- Description > Summary of the Embed
+- URL > Appends the Title with a selected link
+
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Embeds_3.jpg?raw=true)
+### Fields 
+Used to expand your embed as needed by adding extra fields
+### Images
+- Image URL > Add an embeded Image
+- Thumbnail URL > Add a Thumbnail to your Embed
+### Footer
+- Footer > Footnote to your message
+- Footer Icon URL > Add an Icon to your Footer
+- Timestamp > Add a timestamp to your message
+> Timestamp Format (YYYY-MM-DD hh:mm) 24hr clock format
