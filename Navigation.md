@@ -89,3 +89,38 @@ Used to expand your embed as needed by adding extra fields
 - Footer Icon URL > Add an Icon to your Footer
 - Timestamp > Add a timestamp to your message
 > Timestamp Format (YYYY-MM-DD hh:mm) 24hr clock format
+
+## Components
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Components_creation.jpg?raw=true)
+
+2 types of Components 
+- Buttons
+- Select Menus
+### Buttons
+
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Creation.jpg?raw=true)
+Can be created by clicking on `Add Button`
+
+There are 2 types of Buttons
+
+1. Direct Link
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Direct-Rep.jpg?raw=true)
+Label > Button preview <br> URL > Where Button leads to
+
+2. Colored Button
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Colors.jpg?raw=true)
+Label > Button preview <br> Response Type > 3 Availaible respones <br> A) Plain Text > Respond with a text message. <br> B) Saved Message > Respond by sending a saved message to the user, enter Message ID of your saved message. <br> C) Toggle Role > Enter the Role ID of the Role you wish to give the user.
+### Select Menus
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/StartMenu_Creation.jpg?raw=true)
+Created as soon as you click `Add Select Menu`
+- Placeholder > Text that shows on the menu by default
+- Options <br>
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/SelectMenus.jpg?raw=true)
+<br>
+    - Label > Tag of the option.
+    - Desc. > Short description of the option.
+    - Response Type > Follow the same rules as buttons.
+
+
+## Preview 
+The right side of the website displays any realtime modifications made to your message and how it will appear when delivered to Discord!![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Preview.jpg?raw=true)
