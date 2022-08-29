@@ -104,19 +104,32 @@ Can be created by clicking on `Add Button`
 There are 2 types of Buttons
 
 1. Direct Link
-![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Direct-Rep.jpg?raw=true)
-Label > Button preview <br> URL > Where Button leads to
 
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Direct-Rep.jpg?raw=true)
+```
+Label > Button preview 
+
+URL > Where Button leads to
+```
 2. Colored Button
+
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Button_Colors.jpg?raw=true)
-Label > Button preview <br> Response Type > 3 Availaible respones <br> A) Plain Text > Respond with a text message. <br> B) Saved Message > Respond by sending a saved message to the user, enter Message ID of your saved message. <br> C) Toggle Role > Enter the Role ID of the Role you wish to give the user.
+``` 
+- Plain Text > Respond with a text message. 
+
+- Saved Message > Respond by sending a saved message to the user, enter Message ID of your saved message. 
+
+- Toggle Role > Enter the Role ID of the Role you wish to give the user.
+ ```
 ### Select Menus
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/StartMenu_Creation.jpg?raw=true)
 Created as soon as you click `Add Select Menu`
 - Placeholder > Text that shows on the menu by default
 - Options <br>
+
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/SelectMenus.jpg?raw=true)
 <br>
+
     - Label > Tag of the option.
 
     - Desc. > Short description of the option.
