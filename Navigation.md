@@ -124,7 +124,9 @@ URL > Where Button leads to
 ### Select Menus
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/StartMenu_Creation.jpg?raw=true)
 Created as soon as you click `Add Select Menu`
+```
 - Placeholder > Text that shows on the menu by default
+```
 - Options <br>
 
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/SelectMenus.jpg?raw=true)
