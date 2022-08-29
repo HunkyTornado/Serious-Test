@@ -118,7 +118,9 @@ Created as soon as you click `Add Select Menu`
 ![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/SelectMenus.jpg?raw=true)
 <br>
     - Label > Tag of the option.
+
     - Desc. > Short description of the option.
+    
     - Response Type > Follow the same rules as buttons.
 
 
