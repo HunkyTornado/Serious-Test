@@ -141,3 +141,5 @@ Created as soon as you click `Add Select Menu`
 
 ## Preview 
 The right side of the website displays any realtime modifications made to your message and how it will appear when delivered to Discord!
+
+![](https://github.com/HunkyTornado/Serious-Test/blob/main/Images/Preview.jpg?raw=true)
